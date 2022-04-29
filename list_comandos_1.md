@@ -1,0 +1,1 @@
+git add: Adiciona os arquivos e diretórios para estado staged.
